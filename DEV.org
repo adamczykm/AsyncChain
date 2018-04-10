@@ -1,0 +1,6 @@
+
+* TODOS
+
+** TODO Update AsyncChain type according to the README
+** TODO What about IO actions "double spending"
+
